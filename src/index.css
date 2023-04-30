@@ -125,3 +125,15 @@ nav{
   background-color: rgba(0, 0, 0, 0.9);
   color: white;
 }
+
+@media (max-width:620px) 
+{
+  nav{
+    padding: 10px;
+    height:120px ;
+    flex-wrap: wrap;
+  }
+    .profile{
+      display: none;
+    }
+}
