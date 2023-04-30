@@ -133,6 +133,9 @@ nav{
     height:120px ;
     flex-wrap: wrap;
   }
+  .tracks{
+    width: 100vw;
+  }
     .profile{
       display: none;
     }
